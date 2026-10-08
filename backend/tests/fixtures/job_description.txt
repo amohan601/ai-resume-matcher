@@ -1,0 +1,20 @@
+Senior Backend Engineer
+
+We're looking for a Senior Backend Engineer to help build and scale our
+AI-powered platform.
+
+Requirements:
+- 5+ years of professional software engineering experience
+- Strong proficiency in Python and FastAPI for building production REST APIs
+- Experience building LLM-powered features with LangChain or similar frameworks
+- Hands-on experience deploying and operating services on Kubernetes
+- Experience with AWS (ECS, Lambda, or EKS)
+- Solid understanding of PostgreSQL and relational data modeling
+- Comfortable writing automated tests (pytest) and working in an agile team
+
+Nice to have:
+- Experience with Docker and CI/CD pipelines
+- Prior experience in an early-stage startup environment
+
+This role involves owning services end-to-end: designing APIs, deploying
+to a Kubernetes cluster on AWS, and iterating quickly with the team.
